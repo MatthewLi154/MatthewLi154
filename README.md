@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A passionate software engineer and food lover from California.</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/576057/screenshots/3749382/media/ca33aa9b7764f1641545d0997fbbdb8b.gif">
+<img align="right" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 
 - 🔭 I’m currently working on [Pinature](https://github.com/MatthewLi154/pinature-capstone-project)
