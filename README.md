@@ -1,8 +1,8 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://matthewli154.github.io/MattthewLi154.github.io/)
-<h1 align="center">Hi 👋, I'm Matthew</h1>
+<h1 align="center">Hey there 👋, I'm Matthew</h1>
 <h3 align="center">A passionate software engineer and food lover from California.</h3>
 
-<img align="right" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 
 - 🔭 I’m currently working on [Pinature](https://github.com/MatthewLi154/pinature-capstone-project)
