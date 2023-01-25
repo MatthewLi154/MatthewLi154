@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://matthewli154.github.io/MattthewLi154.github.io/](https://matthewli154.github.io/MattthewLi154.github.io/)
 
-- 💬 Ask me about **React Redux**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **matthewli154@gmail.com**
 
