@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A passionate software engineer and food lover from California.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewli154" alt="matthewli154" /></a> </p>
 
 - 🔭 I’m currently working on [Pinature](https://github.com/MatthewLi154/pinature-capstone-project)
 
