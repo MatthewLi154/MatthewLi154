@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://matthewli154.github.io/MattthewLi154.github.io/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://matthewli154.github.io/MattthewLi154.github.io/)
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A passionate software engineer and food lover from California.</h3>
 
