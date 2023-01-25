@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love to break dance**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/matthew-li-76b174161/</h3>
+<h3 align="left">Connect with me: <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" src="https://www.linkedin.com/in/matthew-li-76b174161/"/></h3>
 <p align="left">
 </p>
 
